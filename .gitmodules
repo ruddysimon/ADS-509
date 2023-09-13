@@ -1,0 +1,3 @@
+[submodule "Module-2/ads-tm-token-norm"]
+	path = Module-2/ads-tm-token-norm
+	url = https://github.com/roozbehsadeghian/ads-tm-token-norm.git
